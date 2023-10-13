@@ -1,0 +1,44 @@
+.fejlec{
+	background-image:url("kepek/hero.png");
+	height:100vh;
+	text-align:center;
+	background-size:cover;
+	
+}
+h1{
+	color: white;
+	size:30px;
+		
+}
+.tarolo{
+	
+	width:100%;
+	margin:auto;
+	max-width:800px;
+	
+}
+.ul li {
+	list-style-type:none;
+	
+}
+.menu ul li:hover{
+		background-color:white;
+		border:solid;
+	
+}
+p{
+	color:white;
+	size:30px;
+}
+.menu ul {
+	list-style-type:none;
+	text-decoration:none;
+	color:orange;
+	display:grid;
+	grid-template-columns: 1fr 1fr 1fr 1fr;
+	border:1px solid;
+}
+
+
+	
+
